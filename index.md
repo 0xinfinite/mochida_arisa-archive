@@ -3,6 +3,7 @@
 ## 보존된 아이돌 갤러리 목록
 * [arisa](idols/arisa)
 * [arisa+](idols/arisa+)
+* [mochida_arisa](idols/mochida_arisa)
 
 ## 보존된 기타 커뮤 목록
 * [Aniver_3rd](etc/commu/Aniver_3rd)
